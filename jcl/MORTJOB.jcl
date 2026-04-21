@@ -12,3 +12,5 @@
 //*
 //SYSPRINT DD SYSOUT=*
 //SYSOUT   DD SYSOUT=*
+//*
+/*
