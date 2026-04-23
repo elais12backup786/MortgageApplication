@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Ehtesham Lais - Test for CI !");
+        System.out.println("Hello, Ehtesham Lais - New Test for CI !");
     }
 }
